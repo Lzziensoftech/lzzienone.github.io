@@ -1,2 +1,7 @@
 gamob.com, pub-5650024939, DIRECT
 google.com, pub-5882656183054581, RESELLER, f08c47fec0942fa0
+
+#=== AudienceNetwork
+facebook.com, 1653697615465641, DIRECT, c3e20eee3f780d68
+
+# hariomyadav09062003@gmail.com
